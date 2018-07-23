@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  overflow: hidden
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.arrow-left{
+  width: 100px;
+  transform: rotate(180deg);
+}
+.arrow-right{
+  width: 100px;
+}
+.dimonds-slidshow{
+  white-space:nowrap;
+  height: 200px;
+  display: inline-block;
+  position: relative;
+  transition:linear 0.3s ;
+
+}
+.dimond-photo {
+  display: inline-block;
+  width:150px;
+  height:150px;
+  vertical-align: top;
+}
+
+.big-dimond-photo {
+  display: inline-block;
+  width:200px;
+  height:200px;
+  transition: linear 0.3s;
+
+  vertical-align: top;
+}
