@@ -28,6 +28,7 @@
   display: inline-block;
   position: relative;
   transition:linear 0.3s ;
+  float:left;
 
 }
 .dimond-photo {
@@ -44,4 +45,7 @@
   transition: linear 0.3s;
 
   vertical-align: top;
+}
+.centered-desc{
+clear:both;
 }

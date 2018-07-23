@@ -45,7 +45,7 @@ class App extends Component {
 {this.printDimonds()}
 
 </div>
-          <div className="centered-img">
+          <div className="centered-desc">
               <h2>{selectedPhoto.title}</h2>
               <h3>{selectedPhoto.subTitle}</h3>
           </div>
