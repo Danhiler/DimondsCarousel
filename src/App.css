@@ -34,14 +34,12 @@
 .dimond-photo {
   display: inline-block;
   width:150px;
-  height:150px;
   vertical-align: top;
 }
 
 .big-dimond-photo {
   display: inline-block;
   width:200px;
-  height:200px;
   transition: linear 0.3s;
 
   vertical-align: top;
